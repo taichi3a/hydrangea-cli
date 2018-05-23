@@ -19,4 +19,4 @@ $ npx hydrangea
 
 ## License
 
-MIT c [Hydrangea](https://hydrangea.jp)
+MIT © [Hydrangea](https://hydrangea.jp)
