@@ -1,4 +1,4 @@
-# hydrangea [![Build Status](https://travis-ci.org/taichi3a/hydrangea.svg?branch=master)](https://travis-ci.org/taichi3a/hydrangea)
+# hydrangea [![Build Status](https://travis-ci.org/taichi3a/hydrangea-cli.svg?branch=master)](https://travis-ci.org/taichi3a/hydrangea-cli)
 
 > The [Hydrangea](https://hydrangea.jp) CLI
 
@@ -19,4 +19,4 @@ $ npx hydrangea
 
 ## License
 
-MIT c [Hydrangea](https://hydrangea.jp)
+MIT © [Hydrangea](https://hydrangea.jp)
